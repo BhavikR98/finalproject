@@ -1,14 +1,10 @@
-#wrapper {
-  background-image: radial-gradient(#ffe033, #ffe866, #fff099);
-}
-
 #footer {
   height: 60px;
   font-weight: bold;
   background-color: gold;
   color: white;
 }
-.footerPadding {
+.padding-top {
   padding-top: 20px;
 }
 .navBar {
@@ -34,8 +30,23 @@
   text-decoration-color: #4e555b;
   font-size: 1.75em;
   font-family: Lato, serif;
-
+  padding-bottom: 40px;
+}
+.padding-bottom {
+  padding-bottom: 113px;
 }
 
-
+.heading {
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: overline underline;
+  font-size: 3.75em;
+  padding-bottom: 60px;
+}
+.padding-computers {
+  padding-left: 180px;
+}
+.padding-ibm {
+  padding-left: 100px;
+}
 
