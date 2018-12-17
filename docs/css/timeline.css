@@ -1,3 +1,4 @@
+
 body {
   font: 400 15px Lato, sans-serif;
   line-height: 1.8;
@@ -105,7 +106,7 @@ h4 {
   background-color: #f4511e;
   color: #fff;
 }
-.navbar {
+.navBar {
   margin-bottom: 0;
   background-color: #f4511e;
   z-index: 9999;

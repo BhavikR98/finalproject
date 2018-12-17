@@ -1,0 +1,41 @@
+#wrapper {
+  background-image: radial-gradient(#ffe033, #ffe866, #fff099);
+}
+
+#footer {
+  height: 60px;
+  font-weight: bold;
+  background-color: gold;
+  color: white;
+}
+.footerPadding {
+  padding-top: 20px;
+}
+.navBar {
+  margin-bottom: 0;
+  background-color: gold;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+  font-family: Montserrat, sans-serif;
+}
+.navBar-default .navBar-toggle {
+  border-color: transparent;
+  color: #fff !important;
+}
+.navBar li a, .navBar .navBar-brand {
+  color: #fff !important;
+}
+.index-font-light {
+  font-weight: lighter;
+  text-decoration-color: #4e555b;
+  font-size: 1.75em;
+  font-family: Lato, serif;
+
+}
+
+
+
