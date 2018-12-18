@@ -35,7 +35,9 @@
 .padding-bottom {
   padding-bottom: 113px;
 }
-
+.padding-bottom-people {
+  padding-bottom: 30px;
+}
 .heading {
   font-weight: bolder;
   text-align: center;
@@ -49,4 +51,18 @@
 .padding-ibm {
   padding-left: 100px;
 }
-
+.padding-leo {
+  padding-left: 60px;
+}
+.padding-lawrence {
+  padding-left: 160px;
+}
+.padding-vint {
+  padding-left: 50px;
+}
+.padding-tim {
+  padding-left: 25px;
+}
+.text-center {
+  text-align: center;
+}
