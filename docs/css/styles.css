@@ -43,7 +43,7 @@
   text-align: center;
   text-decoration: overline underline;
   font-size: 3.75em;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 }
 .padding-computers {
   padding-left: 180px;
@@ -74,4 +74,12 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+.logo {
+  padding-left: 160px;
+  margin-top: 10px;
+}
+.font-heavy {
+  font-weight: bold;
+  text-decoration: underline overline;
 }
